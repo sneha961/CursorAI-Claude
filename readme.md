@@ -1,5 +1,7 @@
 # 2D Car Racing Game
 
+<img width="898" alt="image" src="https://github.com/user-attachments/assets/af679de5-5b14-48c7-a1aa-7cdd80d94a8b" />
+
 A simple 2D car racing game built with Python and Pygame where players control a car to avoid oncoming traffic.
 
 ## Project Overview
