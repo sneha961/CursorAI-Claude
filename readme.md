@@ -15,19 +15,9 @@ This game was created as an experimental project to test the capabilities of Cla
 "build a 2D car racing game in which the car keeps moving forward while avoiding the obstacles which are actually other cars"
 ```
 
-2. Project Structure:
-```
-"Can you create a requirements.txt file and a readme.md file for this project"
-```
-
-3. Image Integration:
+2. Image Integration:
 ```
 "I have moved all the images mpcCar.png, playerCar.png, tree.png with the 'images' subfolder in the same directory. Can you modify the path accordingly for the images in the code"
-```
-
-4. Git Configuration:
-```
-"Also create a gitignore file to ignore pushing the venv folder to github"
 ```
 
 The AI successfully generated the complete game structure, including the main game logic, project documentation, and necessary configuration files.
